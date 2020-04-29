@@ -3,7 +3,7 @@
 5. Orzel K. and S. J. Frasier, _Weather Observation by an Electronically Scanned Dual-Polarization Phase-Tilt Radar_, [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/document/8244253), vol. 56, no. 5, 2018.
 4. Orzel K. and S. J. Frasier, _Polarimetric observations by a phase-tilt weather radar in the DFW network_, [IEEE International Geoscience and Remote Sensing Symposium](https://ieeexplore.ieee.org/document/8128373) (IGARSS), 2017.
 3. Ermis S., K.Orzel, S.Tjuatja and S. Frasier, _A microwave scattering model for ground-based remote sensing of snowfall and freezing rain_, [IEEE IGARSS](https://ieeexplore.ieee.org/document/7326714), 2015.
-2. Tanamachi R., H. Bluestein, M. Xue, W.C. Lee, K. Orzel, S. Frasier, R. Wakimoto, _Near-surface vortex structure in a tornado and in a tornado-like vortex observed by a mobile, W-Band radar during VORTEX2_, Monthly Weather Review 141 (11), 2013
+2. Tanamachi R., H. Bluestein, M. Xue, W.C. Lee, K. Orzel, S. Frasier, R. Wakimoto, _Near-surface vortex structure in a tornado and in a tornado-like vortex observed by a mobile, W-Band radar during VORTEX2_, [Monthly Weather Review](https://journals.ametsoc.org/doi/full/10.1175/MWR-D-12-00331.1) 141 (11), 2013
 1. Orzel K, V. Venkatesh, T.Hartley, S.Frasier, _Development and Calibration of a X-band Dual Polarization Phased Array Radar_, [IEEE Radar Conference](https://ieeexplore.ieee.org/document/6586117), Ottawa, 2013.
 
 ### Non-peer reviewed

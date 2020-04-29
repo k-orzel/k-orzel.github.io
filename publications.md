@@ -8,7 +8,7 @@
 
 ### Non-peer reviewed
 
-1. Orzel K., D. Pepyne, S. Turner, J. Vilardell-Sanchez, A. Bajaj, M. Zink, and S. Frasier, _Tracking of a small unmanned aerial vehicles using weather radar_, 10th European Conference on Radar in Meteorology and Hydrology, 2018, [Proceedings p932-936](https://library.wur.nl/WebQuery/wurpubs/fulltext/454537)
+1. Orzel K., D. Pepyne, S. Turner, J. Vilardell-Sanchez, A. Bajaj, M. Zink, and S. Frasier, _Tracking of a small unmanned aerial vehicles using weather radar_, 10th European Conference on Radar in Meteorology and Hydrology, 2018, [in Proceedings p932-936](https://library.wur.nl/WebQuery/wurpubs/fulltext/454537)
 1. Orzel K., S. Govindasamy, A. Bennett, D. Pepyne, and S. Frasier, _Detection and Identification of Remotely Piloted Aircraft Systems Using Weather Radar_, AMS 38th Conference on Radar Meteorology, 2017, [Manuscript](https://ams.confex.com/ams/38RADAR/meetingapp.cgi/Paper/321077)
 1. Vilardell-Sanchez J., K. Orzel and S. Frasier, _Implementation of a Phase-Spin Dual-Polarized Weather Radar_, AMS 38th Conference on Radar Meteorology, 2017.
 1. Masalias-Huguet G., K.Orzel, and S. Frasier, _Evaluating the Calibration Stability of an Active Phased-Array Weather Radar_, AMS 37th Conference on Radar Meteorology, 2015, [Manuscript](https://ams.confex.com/ams/37RADAR/webprogram/Paper275726.html)

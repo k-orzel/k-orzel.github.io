@@ -35,9 +35,9 @@
 ---
 
 ### Invited talks
-- [The list of invited talks.](/invitedtalks)
-- [The list of workshops.](/workshops)
-- [The list of awards.](/awards)
+- [List of invited talks.](/invitedtalks)
+- [List of workshops.](/workshops)
+- [List of awards.](/awards)
 
 
 

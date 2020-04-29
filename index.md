@@ -21,7 +21,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-- [List of publications.](/publications)
-- [Lists of courses, invited talks and awards.](/invitedtalks)
+[List of publications.](/publications)
+[Lists of courses, invited talks and awards.](/invitedtalks)
 ---
 

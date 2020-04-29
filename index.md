@@ -36,6 +36,7 @@
 
 ### Invited talks
 [List of invited talks](/invitedtalks)
+[List of workshops](/workshops)
 
 
 

@@ -1,16 +1,20 @@
-21. V. Venkatesh, Orzel K, S.Frasier, _Spaced-antenna aperture synthesis using an X-band phased-array_, IEEE Geoscience and Remote Sensing Letters, accepted for publication. 
-20. Orzel K. and S. J. Frasier, _Weather Observation by an Electronically Scanned Dual-Polarization Phase-Tilt Radar_, [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/document/8244253), vol. 56, no. 5, 2018.
-19. Orzel K. and S. J. Frasier, _Polarimetric observations by a phase-tilt weather radar in the DFW network_, [IEEE International Geoscience and Remote Sensing Symposium](https://ieeexplore.ieee.org/document/8128373) (IGARSS), 2017.
+### Peer-reviewed
+6. V. Venkatesh, Orzel K, S.Frasier, _Spaced-antenna aperture synthesis using an X-band phased-array_, IEEE Geoscience and Remote Sensing Letters, accepted for publication. 
+5. Orzel K. and S. J. Frasier, _Weather Observation by an Electronically Scanned Dual-Polarization Phase-Tilt Radar_, [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/document/8244253), vol. 56, no. 5, 2018.
+4. Orzel K. and S. J. Frasier, _Polarimetric observations by a phase-tilt weather radar in the DFW network_, [IEEE International Geoscience and Remote Sensing Symposium](https://ieeexplore.ieee.org/document/8128373) (IGARSS), 2017.
+3. Ermis S., K.Orzel, S.Tjuatja and S. Frasier, _A microwave scattering model for ground-based remote sensing of snowfall and freezing rain_, [IEEE IGARSS](https://ieeexplore.ieee.org/document/7326714), 2015.
+2. Tanamachi R., H. Bluestein, M. Xue, W.C. Lee, K. Orzel, S. Frasier, R. Wakimoto, _Near-surface vortex structure in a tornado and in a tornado-like vortex observed by a mobile, W-Band radar during VORTEX2_, Monthly Weather Review 141 (11), 2013
+1. Orzel K, V. Venkatesh, T.Hartley, S.Frasier, _Development and Calibration of a X-band Dual Polarization Phased Array Radar_, [IEEE Radar Conference](https://ieeexplore.ieee.org/document/6586117), Ottawa, 2013.
+
+### Non-peer reviewed
+
 18. Orzel K., D. Pepyne, S. Turner, J. Vilardell-Sanchez, A. Bajaj, M. Zink, and S. Frasier, _Tracking of a small unmanned aerial vehicles using weather radar_, 10th European Conference on Radar in Meteorology and Hydrology, 2018.
 17. Orzel K., S. Govindasamy, A. Bennett, D. Pepyne, and S. Frasier, _Detection and Identification of Remotely Piloted Aircraft Systems Using Weather Radar_, AMS 38th Conference on Radar Meteorology, 2017.
 16. Vilardell-Sanchez J., K. Orzel and S. Frasier, _Implementation of a Phase-Spin Dual-Polarized Weather Radar_, AMS 38th Conference on Radar Meteorology, 2017.
 15. Masalias-Huguet G., K.Orzel, and S. Frasier, _Evaluating the Calibration Stability of an Active Phased-Array Weather Radar_, AMS 37th Conference on Radar Meteorology, 2015.
-14. Ermis S., K.Orzel, S.Tjuatja and S. Frasier, _A microwave scattering model for ground-based remote sensing of snowfall and freezing rain_, [IEEE IGARSS](https://ieeexplore.ieee.org/document/7326714), 2015.
 13. Orzel K., L.Masiunas, T.Hartley and S. Frasier, _Deployment of the X-band dual polarization phased array radar in the Dallas-Forth Worth Urban Demonstration Network_, 8th European Conference on Radar in Meteorology and Hydrology, 2014.
-12. Tanamachi R., H. Bluestein, M. Xue, W.C. Lee, K. Orzel, S. Frasier, R. Wakimoto, _Near-surface vortex structure in a tornado and in a tornado-like vortex observed by a mobile, W-Band radar during VORTEX2_, Monthly Weather Review 141 (11), 2013
 11. Venkatesh V., K. Orzel, T. Hartley, and S. Frasier, _Analysis of spaced-antenna measurement precision using an X-band active phased-array weather radar_, AMS 36th Conference on Radar Meteorology, 2013.
 10. Orzel K., L.Masiunas, T.Hartley and S. Frasier, _Theory and verification of bias correction for polarimetric phased array radar_, AMS 36th Conference on Radar Meteorology, 2013.
-9. Orzel K, V. Venkatesh, T.Hartley, S.Frasier, _Development and Calibration of a X-band Dual Polarization Phased Array Radar_, [IEEE Radar Conference](https://ieeexplore.ieee.org/document/6586117), Ottawa, 2013.
 8. Orzel K.,V. Venkatesh, R. Palumbo, R.H. Medina, J.L. Salazar, A. Krishnamurthy ,E. J. Knapp, R.Tessier, D.J. McLaughlin and S. Frasier, _Mobile X-band dual polarization phased-array radar: System requirements and development_, AMS 35th Conference on Radar Meteorology, 2011.
 7. Tanamachi Robin L., M. Xue, H. B. Bluestein, K. Orzel, S. J. Frasier, and M. I. Biggerstaff, _High-resolution EnKF assimilation of tornado-scale radar observations for a tornadic supercell: preliminary results_, AMS 35th Conference on Radar Meteorology, 2011.
 6. Tanamachi Robin L., H. B. Bluestein, W. Lee, K. Orzel, and S. J. Frasier, _GBVTD-retrieved vortex structure in the 26 May 2010 Prospect Valley, Colorado tornado-like vortices_, AMS 35th Conference on Radar Meteorology, 2011.

@@ -1,0 +1,7 @@
+- NSF I-Corps grant, 4/2015
+- 2nd place in Umass Innovation Challenge Executive Summary Competition, 12/2014
+- Winner of Umass Innovation Challenge Minute Pitch Competition, 4/2014 
+- The Glass Family Product Demonstration Award, 4/2014 
+- Best Paper Award, Spiros G. Geotis Prize, 9/2011, AMS 35th Conference on Radar Meteorology, Pittsburgh, PA 
+- Karlsruhe Institute of Technology Merit Scholarship, 10/2004 - 3/2007  
+- Gdansk University of Technology Merit Scholarship, 1/2004 - 6/2004 

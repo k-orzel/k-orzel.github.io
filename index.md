@@ -1,8 +1,8 @@
 ## Portfolio
 
 ---
-[List of publications.](/publications)
-[Lists of courses, invited talks and awards.](/invitedtalks)
+#### [List of publications.](/publications)
+#### [Lists of courses, invited talks and awards.](/invitedtalks)
 ---
 
 ### Category Name 1 

@@ -1,6 +1,9 @@
 ## Portfolio
 
 ---
+[List of publications.](/publications)
+[Lists of courses, invited talks and awards.](/invitedtalks)
+---
 
 ### Category Name 1 
 
@@ -20,8 +23,5 @@
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[List of publications.](/publications)
-[Lists of courses, invited talks and awards.](/invitedtalks)
----
+
 

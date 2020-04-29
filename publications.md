@@ -24,3 +24,6 @@
 1. Frasier S., V. Venkatesh, K. Orzel, T. Hartley, J. Salazar, R. Medina, E. Knapp, O. Ibe, H. Bluestein, J. Snyder, R. Tanamachi, _X- and W-band mobile Doppler radar observations from VORTEX2 and current developments_, [IEEE Radar Conference](https://ieeexplore.ieee.org/document/5960642), May 2011
 1. Bluestein Howard B., M. M. French, J. B. Houser, J. C. Snyder, R. L. Tanamachi, I. PopStefanija, C. Baldi, G. D. Emmitt, V. Venkatesh, K. Orzel, R. Bluth, and S. J. Frasier, _A summary of data collected during VORTEX-2 by MWR-05XP/TWOLF, UMass X-Pol, and the UMass W-band radar_, 25th Conference on Severe Local Storms, October 2010, [Manuscript](https://ams.confex.com/ams/25SLS/webprogram/Paper176197.html)
 1. Burgess Donald , Snyder J., Schwarz C., Bluestein H.B., Frasier S., Venkatesh V. and Orzel K.,_Mobile X-band, dual-polarization radars in VORTEX2 2009: data quality, comparison, and analysis_, in Proc. 6th European Conf. on Radar in Meteorology and Hydrology: Adv. in Radar Technology, Sibiu, Romania, September 2010
+
+### Patent
+_Methods and systems for wet radome attenuation mitigation in phased-array antennae applications and networked use of such applications_, [US10389019B2](https://patents.google.com/patent/US10389019B2/en), Publication date: 20 August 2019

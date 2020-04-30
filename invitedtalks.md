@@ -1,6 +1,6 @@
 ### Awards
 * [Spiros G. Geotis Prize](https://www.ametsoc.org/index.cfm/STAC/committees/committee-on-radar-meteorology/the-spiros-g-geotis-student-prize), Best Paper Award, AMS 35th Conference on Radar Meteorology, Pittsburgh, PA, 9/2011
-* [NSF I-Corps](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1535811) Award Number:1535811,_I-Corps: Commercialization of a City Scale Weather Radar_, 4/2015
+* [NSF I-Corps](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1535811) Award Number:1535811, _I-Corps: Commercialization of a City Scale Weather Radar_, 4/2015
 * 2nd place in Umass Innovation Challenge Executive Summary Competition, 12/2014
 * Winner of Umass Innovation Challenge Minute Pitch Competition, 4/2014
 * The Glass Family Product Demonstration Award, 4/2014

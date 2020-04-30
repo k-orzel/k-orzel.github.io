@@ -4,4 +4,3 @@
 <img src="images/IEEECoverPage.png?raw=true"/>
 <img src="images/V2_2010_5.JPG?raw=true"/>
 <img src="images/V2_2010_6.JPG?raw=true"/>
-

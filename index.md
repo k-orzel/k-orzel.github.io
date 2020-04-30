@@ -2,7 +2,7 @@
 
 ---
 #### [List of publications.](/publications)
-#### [Lists of courses, invited talks and awards.](/invitedtalks)
+#### [Lists of awards, invited talks and workshops.](/invitedtalks)
 ---
 
 ### Category Name 1 

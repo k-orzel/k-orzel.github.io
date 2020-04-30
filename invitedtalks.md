@@ -1,3 +1,12 @@
+### Awards
+* [Spiros G. Geotis Prize](https://www.ametsoc.org/index.cfm/STAC/committees/committee-on-radar-meteorology/the-spiros-g-geotis-student-prize), Best Paper Award, AMS 35th Conference on Radar Meteorology, Pittsburgh, PA, 9/2011
+* NSF I-Corps grant, 4/2015
+* 2nd place in Umass Innovation Challenge Executive Summary Competition, 12/2014
+* Winner of Umass Innovation Challenge Minute Pitch Competition, 4/2014
+* The Glass Family Product Demonstration Award, 4/2014
+* Karlsruhe Institute of Technology Merit Scholarship, 10/2004 - 3/2007
+* Gdansk University of Technology Merit Scholarship, 1/2004 - 6/2004
+
 ### Invited talks
 * _From Phase-Tilt to Phase-Spin_ - NOAA National Severe Storms Laboratory, Norman OK, October 24th, 2015
 * _Dual polarization phased-array radar for meteorological applications_ - Jet Propulsion Laboratory (JPL), Pasadena CA, November 21st, 2014
@@ -12,12 +21,3 @@
 * Innovation Corps Program, 4/2015 - 5/2015, GeorgiaTech, Atlanta, GA
 * Applications of dual-polarization weather radars, 9/2014, Garmisch-Partenkirchen, Germany    
 * AMS Short Course on Weather Radar Calibration Laboratory, 9/2013, CSU-CHILL, Greeley, CO
-
-### Awards
-* NSF I-Corps grant, 4/2015
-* 2nd place in Umass Innovation Challenge Executive Summary Competition, 12/2014
-* Winner of Umass Innovation Challenge Minute Pitch Competition, 4/2014
-* The Glass Family Product Demonstration Award, 4/2014
-* Best Paper Award, Spiros G. Geotis Prize, 9/2011, AMS 35th Conference on Radar Meteorology, Pittsburgh, PA
-* Karlsruhe Institute of Technology Merit Scholarship, 10/2004 - 3/2007
-* Gdansk University of Technology Merit Scholarship, 1/2004 - 6/2004

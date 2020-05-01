@@ -14,4 +14,6 @@
 #### [Storm chasing - Vortex2](/vortex2)
 ---
 #### [Other projects](/otherprojects)
-
+---
+<img src="images/dronesig.jpg?raw=true" width="512" height="90">
+---

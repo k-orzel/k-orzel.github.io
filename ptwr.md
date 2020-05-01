@@ -8,3 +8,4 @@ Backplane of PTWR.
 <td> <img src="images/phaseSpin.jpg?raw=true"  width="232" height="413">> </td>
 </tr></table>
 Radar installed on the tower in the phase-spin configuration.
+<iframe src="https://ams.confex.com/ams/35Radar/flvgateway.cgi/id/18658?recordingid=18658&uniqueid=Paper191899&entry_password=444248" width="512" height="512" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

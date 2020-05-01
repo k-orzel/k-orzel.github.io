@@ -1,5 +1,5 @@
 ## Portfolio
-
+<img src="images/dronesig.jpg?raw=true"/>
 ---
 #### [Resume](/pdf/ResumeShortApril2020.pdf)
 ---

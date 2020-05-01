@@ -1,6 +1,8 @@
 ## Portfolio
 
 ---
+#### [Resume](/pdf/ResumeShortApril2020.pdf)
+---
 #### [List of publications.](/publications)
 ---
 #### [Lists of awards, invited talks and workshops.](/invitedtalks)

@@ -6,7 +6,7 @@
 ---
 #### [Lists of awards, invited talks and workshops](/invitedtalks)
 ---
-#### [Integrated, multi-sensor counter-unmanned aerial vehicle (UAV) system](/multisensorcounteruav)
+#### [Integrated, multi-sensor counter-unmanned aerial vehicle system](/multisensorcounteruav)
 ---
 #### [UAV tracking and classification using a phase-spin X-band radar](/uavumass)
 ---

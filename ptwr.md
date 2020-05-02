@@ -13,4 +13,5 @@ Backplane of PTWR.
 
 
 <img src="images/phasetower.png?raw=true"/>
+
 Radar installed on the tower in the phase-spin configuration.

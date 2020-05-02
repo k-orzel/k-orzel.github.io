@@ -17,5 +17,4 @@ Howard Bluestein summary talk on Vortex-2 Year 2. Password: bluestein
 A dramatic, but appealing shelf cloud. 
 
 <img src="images/V2_2010_6.JPG?raw=true"/>
-
 University of Oklahoma and University of Massachusetts storm chasing team.

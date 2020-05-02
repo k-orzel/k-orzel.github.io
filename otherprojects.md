@@ -1,10 +1,13 @@
-![Bistatic SAR experiment in Catalunya, Spain (2006).](/images/BistaticSar.JPG)
 
-<img src="/images/BistaticSar.JPG"
-     alt="Bistatic SAR experiment in Catalunya, Spain (2006)."
-     style="float: left; margin-right: 10px;" />
-
-<iframe src="https://player.vimeo.com/video/414167926" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/414167926" width="512" height="288" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+Counter-UAV system developed by Advanced Protection Systems presented in the flagship newscast of TVN, one of Poland's major television networks (2016). 
 
 
-<p><a href="https://vimeo.com/414167926">2016_APS_Fakty</a> from <a href="https://vimeo.com/user4984527">Krzysztof Orzeł</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<img src="/images/radiometer.png?raw=true"/>
+Ka-band radiometer prototype developed at German Aerospace Center (DLR) (2008).
+
+<img src="/images/DLR.JPG?raw=true"/>
+Supporting anechoic chamber satellite tests at EADS Astrium in Germany (2007).
+
+<img src="/images/BistaticSar.JPG?raw=true"/>
+Bistatic SAR experiment in Catalunya, Spain (2006).

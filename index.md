@@ -16,4 +16,4 @@
 ---
 #### [Other projects](/otherprojects)
 ---
-<img src="images/dronesig.jpg?raw=true" width="512" height="90">
+<img src="images/dronesig.jpg?raw=true" width="512" height="60">

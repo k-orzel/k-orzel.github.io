@@ -17,15 +17,12 @@ Orzel K., _Weiterentwicklung eines integrierten Ka-Band-Empfängers für ein Ape
 
 ### Peer reviewed conferences
 1. Orzel K, Fujimaru S., Obata T., Imaizumi T. and Arai M.,  _The on-orbit demonstration of the small SAR satellite. Initial calibration and observations_, [2022 IEEE Radar Conference (RadarConf22)]([https://ieeexplore.ieee.org/document/8128373](https://ieeexplore.ieee.org/document/9764261)), 2022.
-1. Orzel K, Fujimaru S., Obata T., Imaizumi T. and Arai M.,  _The on-orbit demonstration of the small SAR satellite. Initial calibration and observations_, [2022 IEEE Radar Conference (RadarConf22)]([https://ieeexplore.ieee.org/document/8128373](https://ieeexplore.ieee.org/document/9764261)), 2022.
 1. Orzel K. and S. J. Frasier, _Polarimetric observations by a phase-tilt weather radar in the DFW network_, [IEEE International Geoscience and Remote Sensing Symposium](https://ieeexplore.ieee.org/document/8128373) (IGARSS), 2017.
 2. Ermis S., K.Orzel, S.Tjuatja and S. Frasier, _A microwave scattering model for ground-based remote sensing of snowfall and freezing rain_, [IEEE IGARSS](https://ieeexplore.ieee.org/document/7326714), 2015.
 3. Orzel K, V. Venkatesh, T.Hartley, S.Frasier, _Development and Calibration of a X-band Dual Polarization Phased Array Radar_, [IEEE Radar Conference](https://ieeexplore.ieee.org/document/6586117), Ottawa, 2013.
 
 ### Other publications
-
-
-1, Orzel K., Pyne B., Arenas A., Fujimaru S., Obata T., _StriX-𝛼 in-orbit antenna pattern evaluation and upcoming design improvements_, 7th workshop on ["Advanced RF Sensors and Remote Sensing Instruments”](https://atpi.eventsair.com/QuickEventWebsitePortal/arsi-keo/website) and the 5th workshop on “Ka-band  Earth Observation Radar Missions” organised by ESA-ESTEC, May 2022. 
+1. Orzel K., Pyne B., Arenas A., Fujimaru S., Obata T., _StriX-𝛼 in-orbit antenna pattern evaluation and upcoming design improvements_, 7th workshop on ["Advanced RF Sensors and Remote Sensing Instruments”](https://atpi.eventsair.com/QuickEventWebsitePortal/arsi-keo/website) and the 5th workshop on “Ka-band  Earth Observation Radar Missions” organised by ESA-ESTEC, May 2022. 
 1. Orzel K., D. Pepyne, S. Turner, J. Vilardell-Sanchez, A. Bajaj, M. Zink, and S. Frasier, _Tracking of a small unmanned aerial vehicles using weather radar_, 10th European Conference on Radar in Meteorology and Hydrology, 2018, [in Proceedings p932-936](https://library.wur.nl/WebQuery/wurpubs/fulltext/454537)
 1. Orzel K., S. Govindasamy, A. Bennett, D. Pepyne, and S. Frasier, _Detection and Identification of Remotely Piloted Aircraft Systems Using Weather Radar_, AMS 38th Conference on Radar Meteorology, 2017, [Manuscript](https://ams.confex.com/ams/38RADAR/meetingapp.cgi/Paper/321077)
 1. Vilardell-Sanchez J., K. Orzel and S. Frasier, _Implementation of a Phase-Spin Dual-Polarized Weather Radar_, AMS 38th Conference on Radar Meteorology, 2017.

@@ -1,6 +1,6 @@
 ## Portfolio
 ---
-#### [Resume](/pdf/ResumeShortApril2020.pdf)
+#### [Resume](/pdf/KOrzel_CV_062022.pdf)
 ---
 #### [List of publications](/publications)
 ---

@@ -4,7 +4,11 @@ Orzel K., _X-band Dual Polarization Phased-Array Radar for Meteorological Applic
 Orzel K., _Weiterentwicklung eines integrierten Ka-Band-Empfängers für ein Apertursynthese - Radiometer_, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Diplomarbeit 2008, [Abstract](https://elib.dlr.de/57888/).
 
 ### Patent
-Bennett & Orzel, _Methods and systems for wet radome attenuation mitigation in phased-array antennae applications and networked use of such applications_, [US10389019B2](https://patents.google.com/patent/US10389019B2/en), Publication date: 20 August 2019
+1. Bennett A., Wienhold K., Orzel K., _System and method of detecting and acting upon moving objects_, [US10909692B2](https://patents.google.com/patent/US10909692B2/en), Publication date: 2 February 2021
+
+1. Bennett & Orzel, _Methods and systems for wet radome attenuation mitigation in phased-array antennae applications and networked use of such applications_, [US10389019B2](https://patents.google.com/patent/US10389019B2/en), Publication date: 20 August 2019
+
+
 
 ### Peer-reviewed
 1. V. Venkatesh, Orzel K, S.Frasier, _Spaced-antenna aperture synthesis using an X-band phased-array_, IEEE Geoscience and Remote Sensing Letters,[Early Access](https://ieeexplore.ieee.org/document/9103050). 

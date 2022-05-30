@@ -5,8 +5,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/orzelk/">&#8226; LinkedIn profile</a>
   <br><br>
-  # <a href="https://www.mendeley.com/authors/50961394400/">&#8226; Mendeley profile</a>
-  # <br><br>
   <a target="externalIdentifier.value" href="http://www.scopus.com/inward/authorDetails.url?authorID=50961394400&amp;partnerID=MN8TOARS">&#8226; Scopus Author ID: 50961394400 </a>
   <br><br>
   <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5118-9988" href="https://orcid.org/0000-0002-5118-9988" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5118-9988</a></div>

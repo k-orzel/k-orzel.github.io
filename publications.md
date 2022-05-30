@@ -1,24 +1,26 @@
 ### Dissertation
 Orzel K., _X-band Dual Polarization Phased-Array Radar for Meteorological Applications_, 2015,[Manuscript](https://scholarworks.umass.edu/dissertations_2/318/).
+
 ### Thesis
 Orzel K., _Weiterentwicklung eines integrierten Ka-Band-Empfängers für ein Apertursynthese - Radiometer_, Deutsches Zentrum für Luft- und Raumfahrt (DLR), Diplomarbeit 2008, [Abstract](https://elib.dlr.de/57888/).
 
-### Patent
+### Patents
 1. Bennett A., Wienhold K., Orzel K., _System and method of detecting and acting upon moving objects_, [US10909692B2](https://patents.google.com/patent/US10909692B2/en), Publication date: 2 February 2021
 
 1. Bennett & Orzel, _Methods and systems for wet radome attenuation mitigation in phased-array antennae applications and networked use of such applications_, [US10389019B2](https://patents.google.com/patent/US10389019B2/en), Publication date: 20 August 2019
 
-
-
-### Peer-reviewed
-1. V. Venkatesh, Orzel K, S.Frasier, _Spaced-antenna aperture synthesis using an X-band phased-array_, IEEE Geoscience and Remote Sensing Letters,[Early Access](https://ieeexplore.ieee.org/document/9103050). 
+### Journal publications
+1. V. Venkatesh, Orzel K, S.Frasier, _Demonstration of a Spaced-Antenna Weather Radar Using an X-Band Active Phased-Array_, IEEE Geoscience and Remote Sensing Letters, [Volume: 19](https://ieeexplore.ieee.org/document/9103050), DOI: 10.1109/LGRS.2021.3123545
+1. V. Venkatesh, Orzel K, S.Frasier, _Spaced-antenna aperture synthesis using an X-band phased-array_, IEEE Geoscience and Remote Sensing Letters,[Vol 18 Issue 7 Pages 1194-1198](https://ieeexplore.ieee.org/document/9103050). 
 1. Orzel K. and S. J. Frasier, _Weather Observation by an Electronically Scanned Dual-Polarization Phase-Tilt Radar_, [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/document/8244253), vol. 56, no. 5, 2018.
-1. Orzel K. and S. J. Frasier, _Polarimetric observations by a phase-tilt weather radar in the DFW network_, [IEEE International Geoscience and Remote Sensing Symposium](https://ieeexplore.ieee.org/document/8128373) (IGARSS), 2017.
-1. Ermis S., K.Orzel, S.Tjuatja and S. Frasier, _A microwave scattering model for ground-based remote sensing of snowfall and freezing rain_, [IEEE IGARSS](https://ieeexplore.ieee.org/document/7326714), 2015.
 1. Tanamachi R., H. Bluestein, M. Xue, W.C. Lee, K. Orzel, S. Frasier, R. Wakimoto, _Near-surface vortex structure in a tornado and in a tornado-like vortex observed by a mobile, W-Band radar during VORTEX2_, [Monthly Weather Review](https://journals.ametsoc.org/doi/full/10.1175/MWR-D-12-00331.1) 141 (11), 2013
-1. Orzel K, V. Venkatesh, T.Hartley, S.Frasier, _Development and Calibration of a X-band Dual Polarization Phased Array Radar_, [IEEE Radar Conference](https://ieeexplore.ieee.org/document/6586117), Ottawa, 2013.
 
-### Non-peer reviewed
+### Peer reviewed conferences
+1. Orzel K. and S. J. Frasier, _Polarimetric observations by a phase-tilt weather radar in the DFW network_, [IEEE International Geoscience and Remote Sensing Symposium](https://ieeexplore.ieee.org/document/8128373) (IGARSS), 2017.
+2. Ermis S., K.Orzel, S.Tjuatja and S. Frasier, _A microwave scattering model for ground-based remote sensing of snowfall and freezing rain_, [IEEE IGARSS](https://ieeexplore.ieee.org/document/7326714), 2015.
+3. Orzel K, V. Venkatesh, T.Hartley, S.Frasier, _Development and Calibration of a X-band Dual Polarization Phased Array Radar_, [IEEE Radar Conference](https://ieeexplore.ieee.org/document/6586117), Ottawa, 2013.
+
+### Other publications
 
 1. Orzel K., D. Pepyne, S. Turner, J. Vilardell-Sanchez, A. Bajaj, M. Zink, and S. Frasier, _Tracking of a small unmanned aerial vehicles using weather radar_, 10th European Conference on Radar in Meteorology and Hydrology, 2018, [in Proceedings p932-936](https://library.wur.nl/WebQuery/wurpubs/fulltext/454537)
 1. Orzel K., S. Govindasamy, A. Bennett, D. Pepyne, and S. Frasier, _Detection and Identification of Remotely Piloted Aircraft Systems Using Weather Radar_, AMS 38th Conference on Radar Meteorology, 2017, [Manuscript](https://ams.confex.com/ams/38RADAR/meetingapp.cgi/Paper/321077)

@@ -10,6 +10,7 @@ Orzel K., _Weiterentwicklung eines integrierten Ka-Band-Empfängers für ein Ape
 1. Bennett & Orzel, _Methods and systems for wet radome attenuation mitigation in phased-array antennae applications and networked use of such applications_, [US10389019B2](https://patents.google.com/patent/US10389019B2/en), Publication date: 20 August 2019
 
 ### Journal publications
+1. Badger, M., Fujita, A., Orzel, K., Hatfield, D., Kelly, M., [Wind Retrieval from Constellations of Small SAR Satellites: Potential for Offshore Wind Resource Assessment](https://www.mdpi.com/1996-1073/16/9/3819), Energies 2023, 16, 3819. https://doi.org/10.3390/en16093819
 1. V. Venkatesh, Orzel K, S.Frasier, _Demonstration of a Spaced-Antenna Weather Radar Using an X-Band Active Phased-Array_, [IEEE Geoscience and Remote Sensing Letters, Volume: 19](https://ieeexplore.ieee.org/document/9103050), 2021
 1. V. Venkatesh, Orzel K, S.Frasier, _Spaced-antenna aperture synthesis using an X-band phased-array_, [IEEE Geoscience and Remote Sensing Letters,Vol 18 Issue 7 Pages 1194-1198](https://ieeexplore.ieee.org/document/9103050), 2020
 1. Orzel K. and S. J. Frasier, _Weather Observation by an Electronically Scanned Dual-Polarization Phase-Tilt Radar_, [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/document/8244253), vol. 56, no. 5, 2018.

@@ -16,6 +16,9 @@ Orzel K., _Weiterentwicklung eines integrierten Ka-Band-Empfängers für ein Ape
 1. Tanamachi R., H. Bluestein, M. Xue, W.C. Lee, K. Orzel, S. Frasier, R. Wakimoto, _Near-surface vortex structure in a tornado and in a tornado-like vortex observed by a mobile, W-Band radar during VORTEX2_, [Monthly Weather Review](https://journals.ametsoc.org/doi/full/10.1175/MWR-D-12-00331.1) 141 (11), 2013
 
 ### Peer reviewed conferences
+1. Orzel K., Moller D., and Pollard B., "Takahē - a Tandem Ka-band & High Altitude
+Platform Explorer for Ocean & Ice Monitoring", EUSAR 2024; 15th European Conference on Synthetic Aperture Radar, Munich, Germany, 2024, pp. 1-5.
+1. Orzel et al., "Synspective SAR Constellation Status Update: Recent Calval Activities and the Automatic Data Quality Assessment," [IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium](https://ieeexplore.ieee.org/document/10282327), Pasadena, CA, USA, 2023, pp. 1517-1520, doi: 10.1109/IGARSS52108.2023.10282327. 
 1. Orzel K., Fujimaru S., Obata T. , Imaizumi T.  and Arai M., "StriX-α SAR satellite: demonstration of observation modes and initial calibration results," [EUSAR 2022; 14th European Conference on Synthetic Aperture Radar](https://ieeexplore.ieee.org/document/9944237), Leipzig, Germany, 2022, pp. 1-4.
 1. Orzel K, Fujimaru S., Obata T., Imaizumi T. and Arai M.,  _The on-orbit demonstration of the small SAR satellite. Initial calibration and observations_, [2022 IEEE Radar Conference (RadarConf22)]([https://ieeexplore.ieee.org/document/8128373](https://ieeexplore.ieee.org/document/9764261)), 2022.
 1. Orzel K. and S. J. Frasier, _Polarimetric observations by a phase-tilt weather radar in the DFW network_, [IEEE International Geoscience and Remote Sensing Symposium](https://ieeexplore.ieee.org/document/8128373) (IGARSS), 2017.
